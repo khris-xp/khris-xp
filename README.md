@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khris-xp" alt="khris-xp" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 - 🔭 I’m currently working on [1000 Days Programming Challenges.](https://github.com/khris-xp/1000-Days-Programming-Challenges)
 
 - 🌱 I’m currently learning **NextJS and TypeScript**
