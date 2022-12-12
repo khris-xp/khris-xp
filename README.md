@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khirs-xp?tab=repositories](https://github.com/khirs-xp?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/khris-xp?tab=repositories)
 
 - 💬 Can Ask me About. **HTML, CSS, JavaScript, NodeJs, React, NextJs and etc. but don't expect it**
 
