@@ -27,7 +27,7 @@
 ## My GitHub Analytics 📈
 
 <div align="center">
-  <a href="https://github.com/FabuKi-Xr">
+  <a href="https://github.com/khris-xp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=khris-xp&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=8" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khris-xp&langs_count=8&layout=compact&theme=tokyonight&border_radius=8" />
     <img height="280em" src="https://github-readme-activity-graph.cyclic.app/graph?username=khris-xp&theme=tokyo-night&radius=16" />
