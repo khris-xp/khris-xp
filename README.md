@@ -33,3 +33,5 @@
     <img height="280em" src="https://github-readme-activity-graph.cyclic.app/graph?username=khris-xp&theme=tokyo-night&radius=16" />
   </a>
 </div>
+
+![snake gif](https://github.com/khris-xp/khris-xp/blob/output/github-contribution-grid-snake.gif)
