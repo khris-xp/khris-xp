@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [1000 Days Programming Challenges.](https://github.com/khris-xp/1000-Days-Programming-Challenges)
 
-- 🌱 I’m currently learning **NextJS and TypeScript**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/khris-xp?tab=repositories)
 
