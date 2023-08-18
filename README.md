@@ -124,5 +124,3 @@ Hi there, my name is Khris Bharmmano. I am a Computer Engineering Student at Kin
     </td>
   </tr>
 </table>
-
-![snake gif](https://github.com/khris-xp/khris-xp/blob/output/github-contribution-grid-snake.gif)
