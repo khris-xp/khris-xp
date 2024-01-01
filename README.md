@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khris-xp&show_icons=true&locale=en" alt="khris-xp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khris-xp&" alt="khris-xp" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
