@@ -24,4 +24,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khris-xp&" alt="khris-xp" /></p>
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 50 mins    █████████████░░░░░░░░░░░░   52.29 %
+Svelte       1 hr 41 mins    ████████████░░░░░░░░░░░░░   47.71 %
+```
+
 <!--END_SECTION:waka-->
