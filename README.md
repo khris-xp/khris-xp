@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       5 hrs 11 mins   ██████████▓░░░░░░░░░░░░░░   42.78 %
-TypeScript   3 hrs 51 mins   ████████░░░░░░░░░░░░░░░░░   31.83 %
-JavaScript   1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-Assembly     45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Vue.js       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Svelte       4 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   35.02 %
+TypeScript   4 hrs 32 mins   ████████▓░░░░░░░░░░░░░░░░   34.46 %
+Vue.js       1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+JavaScript   1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Assembly     45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
 <!--END_SECTION:waka-->
