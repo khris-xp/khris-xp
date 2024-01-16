@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   37.96 %
-Svelte       3 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.42 %
+Svelte       2 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.36 %
+TypeScript   2 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
+HTML         1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
 Vue.js       1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-JavaScript   1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-Assembly     45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+JavaScript   1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
 ```
 
 <!--END_SECTION:waka-->
