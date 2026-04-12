@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Software Design and Software Architecture**
 
-- 👨‍💻 All of my projects are available at [https://khris-xp-website.vercel.app](https://khris-xp-website.vercel.app)
+- 👨‍💻 All of my projects are available at [https://khris-xp-website-production.up.railway.app/](https://khris-xp-website-production.up.railway.app)
 
 - 📫 How to reach me **khrisbharmmano@gmail.com**
 
-- 📄 Know about my experiences [https://khris-xp-website.vercel.app](https://khris-xp-website.vercel.app)
+- 📄 Know about my experiences [https://khris-xp-website-production.up.railway.app/](https://khris-xp-website-production.up.railway.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
